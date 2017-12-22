@@ -19,15 +19,11 @@ import vme from "./vue-mobile-emoji/vme.vue"
 
 ### 配置
 ```html
-   
-    <vme @emojiSelected="emojiSected"></vme>
+   <vme @emojiSelected="emojiSected"></vme>
 
-    <h3
-        contenteditable="true"
-        ref="demo"
-    >
-      vue-mobile-emoji (可编辑)
-    </h3>
+   <h3 contenteditable="true" ref="demo">
+     vue-mobile-emoji (可编辑)
+   </h3>
 ```
 
 ```javascript
