@@ -3,20 +3,11 @@
 
 ![演示gif](https://github.com/EastblueOkay/vue-mobile-emoji/blob/master/static/vue-mobile-emoji.gif)
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+## 安装
+> **很快会支持npm安装**
+```js
+1 拷贝src/components/目录下的vue-mobile-emoji文件夹到项目
+2 import vme from "./vue-mobile-emoji/vme.vue"
+3 在Template中使用 <vme></vme>
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
