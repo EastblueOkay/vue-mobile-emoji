@@ -4,7 +4,6 @@
 ![演示gif](https://github.com/EastblueOkay/vue-mobile-emoji/blob/master/static/vue-mobile-emoji.gif)
 
 ## 安装
-> **很快会支持npm安装**
 ```js
 拷贝 vue-mobile-emoji 文件夹到项目
 ```
